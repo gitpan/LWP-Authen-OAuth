@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               LWP-Authen-OAuth
-version:            1.00
+version:            1.01
 abstract:           generate signed OAuth requests
 author:
     - Timothy D Brody <tdb2@ecs.soton.ac.uk>
